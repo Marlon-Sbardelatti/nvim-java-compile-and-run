@@ -15,7 +15,7 @@ The script compiles your classes even if they are in a different directory, redi
 # Usage example
 crjava.sh + class name
 
-#Example:
+# Example:
 
 crjava.sh Main
 
